@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="amount">Amount</string>
+    <string name="amount_hint">Amount</string>
+    <string name="num_of_pax">Num of pax</string>
+    <string name="discount">Discount (%)</string>
+    <string name="discount_input">Discount</string>
+    <string name="option1">Cash</string>
+    <string name="option2">PayNow</string>
+    <string name="split">SPLIT</string>
+    <string name="reset">RESET</string>
+    <string name="total_bill">Total Bill: </string>
+    <string name="billAmnt">$0</string>
+    <string name="pay_input">$0</string>
+    <string name="each_pays">Each Pays: </string>
+    <string name="pax_hint">No. of pax</string>
+</resources>
